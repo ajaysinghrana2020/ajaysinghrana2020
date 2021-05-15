@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajaysinghrana2020
-- 👀 I’m interested in ...c,c++,and web development.
-- 🌱 I’m currently learning ... 
+- 👀 I’m interested in ...c,c++,and js,html,css,bootstrap.
+- 🌱 I’m currently learning ... react js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ajaysinghrana8894@gmail.com.
 
